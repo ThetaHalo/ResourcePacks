@@ -2,7 +2,7 @@
 
 <h3 align=center> 
 
-[__Modrinth Page__](https://modrinth.com) | [__GitHub Download__](https://github.com/thetahalo/resourcepacks)
+[__Modrinth Page__](https://modrinth.com) | [__GitHub Download__](https://github.com/ThetaHalo/ResourcePacks/archive/refs/heads/template.zip)
 </h3>
 
 
