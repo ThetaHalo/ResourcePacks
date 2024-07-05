@@ -4,6 +4,10 @@
 
 [__Modrinth Page__](https://modrinth.com) | [__GitHub Download__](https://github.com/ThetaHalo/ResourcePacks/archive/refs/heads/template.zip)
 </h3>
+<br>
 
-
+> Pink Lanterns is Licensed under CC BY-NC-ND 4.0, you may read the license [here](./LICENSE)<br>
+> Feel free to use this in your Mod Packs, as long as I (ThetaHalo) am credited, thank you for using my pack! 💜
+<br>
 ---
+### Gallery
