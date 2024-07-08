@@ -2,7 +2,7 @@
 
 <h3 align=center> 
 
-[__Modrinth Page__](https://modrinth.com) | [__GitHub Download__](https://github.com/ThetaHalo/ResourcePacks/archive/refs/heads/template.zip)
+[__Modrinth Page__](https://modrinth.com) | [__GitHub Download__](https://github.com/ThetaHalo/ResourcePacks/archive/refs/heads/pink-lantern.zip)
 </h3>
 <br>
 
@@ -10,9 +10,9 @@
 > Feel free to use this in your Mod Packs, as long as I (ThetaHalo) am credited, thank you for using my pack! 💜
 <br>
 
-If you want to download the resource pack from here for some reason, press **code** then **Download ZIP**
+> If you want to download the resource pack from here for some reason, press **Code** then **Download ZIP**
 ---
 
 ### Gallery
 
-<img src=https://cdn.modrinth.com/data/vRQuUWXC/images/b2d205700cd7128890c3f308e605827f48ae8baf.png>
+<img src="https://github.com/ThetaHalo/ResourcePacks/assets/82065263/8e6dab6e-5c45-4dda-ad06-14e4fe13d0ab" alt="House with Pink Lanterns">
