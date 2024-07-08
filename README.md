@@ -10,6 +10,9 @@
 > Feel free to use this in your Mod Packs, as long as I (ThetaHalo) am credited, thank you for using my pack! 💜
 <br>
 
+If you want to download the resource pack from here for some reason, press **code** then **Download ZIP**
 ---
 
 ### Gallery
+
+<img src=https://cdn.modrinth.com/data/vRQuUWXC/images/b2d205700cd7128890c3f308e605827f48ae8baf.png>
