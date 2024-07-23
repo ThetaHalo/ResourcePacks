@@ -2,7 +2,7 @@
 
 <h3 align=center> 
 
-[__Modrinth Page__](https://modrinth.com) | [__GitHub Download__](https://github.com/ThetaHalo/ResourcePacks/archive/refs/heads/pink-lantern.zip)
+[__Modrinth Page__](https://modrinth.com/resourcepack/pink-lanterns) | [__GitHub Download__](https://github.com/ThetaHalo/ResourcePacks/archive/refs/heads/pink-lantern.zip)
 </h3>
 <br>
 
